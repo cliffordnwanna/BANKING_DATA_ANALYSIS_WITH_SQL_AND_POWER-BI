@@ -1,5 +1,7 @@
 # BANKING DATA ANALYSIS WITH SQL AND POWER-BI
 
+![Banking Dashboard](PowerBI-Report/Dashboard-Screenshot/dashboard.png)
+
 
 ## Project Overview
 This project demonstrates my proficiency with SQL and Power BI by analyzing a sample banking dataset. The dataset consists of two tables: **Customers** and **Transactions**, both designed to simulate real-world banking operations. Using SQL for database management and Power BI for data visualization, I have created a professional dashboard to derive actionable insights.
