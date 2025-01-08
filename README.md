@@ -103,18 +103,10 @@ The `CustomerID` column acts as a foreign key, establishing a relationship betwe
 ## Project Documentation
 
 ### **Saved Files**
-1. **SQL Scripts:** Includes `CREATE`, `INSERT`, and `SELECT` statements for the `BankAnalytics` database.
+1. **SQL Script:** Includes `CREATE`, `INSERT`, and `SELECT` statements for the `BankAnalytics` database.
 2. **Power BI Report:** Saved as `BankAnalyticsReport.pbix`.
 3. **Exported Dashboard:** Exported to PDF for easy sharing.
 
-### **GitHub Repository**
-The project files, including SQL scripts, the Power BI file, and the PDF report, are available on my GitHub: [GitHub Repository Link](https://github.com/cliffordnwanna).
-
-### **LinkedIn Post**
-To showcase this project, I will post an overview on LinkedIn, highlighting:
-- My SQL and Power BI skills.
-- Key insights derived from the data.
-- A link to the GitHub repository for further exploration.
 
 ---
 
