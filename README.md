@@ -1,6 +1,6 @@
 # BANKING DATA ANALYSIS WITH SQL AND POWER-BI
 
-![Banking Dashboard](PowerBI-Report/Dashboard-Screenshot/dashboard.png)
+![Banking Dashboard](https://github.com/cliffordnwanna/BANKING_DATA_ANALYSIS_WITH_SQL_AND_POWER-BI/raw/main/PowerBI_report/Dashboard%20Screenshot.jpg)
 
 
 ## Project Overview
